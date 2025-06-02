@@ -1,4 +1,4 @@
-# Amazon-Q-CLI---Build-Games
+# Amazon-Q 2048 Game Prompt
 
 1. 2048 is a popular single-player puzzle game created by Gabriele Cirulli in 2014. In this folder, I want you to create a 2D free kick game using PyGame library.
 
