@@ -1,9 +1,10 @@
 # Amazon-Q-CLI---Build-Games
 
-1. 2048 is a popular single-player puzzle game created by Gabriele Cirulli in 2014. In this folder, I want you to create a 2D free kick game using PyGame library.
+1.
+1. Pac-Man is one of the most iconic and influential arcade games of all time. It was developed by Namco and first released in 1980.. In this folder, I want you to create a Pac-Man-inspired game using PyGame library.
 
-2. Here are something you need to update:
-   1. Update the grid to 8x8. Update the condition to win the game to 8192.
-   2. Increase the speed of tile's sliding effect. Change the code to wait for all sliding effects end then the new tile can appear.
-   3. Move all the title, how-to-play and score section to the left side of the window. Make sure this section not cover the game grid.
+1. Here are something you need to update:
+   1. Make the route smaller, right now the route is too wide, like you can turn left or right, make it smaller so that you can only go straight and turn at corner only.
+   2. Decrease the quantity of power-up dot, increase the duration of power-up.
+   3. Make the map bigger and add more corner.
    4. Add some simple sound effects.
